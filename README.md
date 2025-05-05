@@ -16,10 +16,5 @@ A simple task manager built with Python and Tkinter. Users can:
 ```bash
 python todo_list.py
 
-## 2. Calculator App
-A basic calculator for performing arithmetic operations like addition, subtraction, multiplication, and division.
 
-Tech Stack: Python, Tkinter
 
-How to Run:
-python calculator.py
